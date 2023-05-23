@@ -13,3 +13,5 @@
 
  - source001 [https://www.artificialintelligence-news.com/feed/](https://www.artificialintelligence-news.com/feed/) -> [ai_news_rss.xml](rss/ai_news_rss.xml)
  - source002 [http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml](http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml) -> [mitai_rss.xml](rss/mitai_rss.xml)
+ - source003 [http://research.microsoft.com/rss/news.xml](http://research.microsoft.com/rss/news.xml) -> [microsoft_rss.xml](rss/microsoft_rss.xml)
+ - source004 [http://googleresearch.blogspot.com/atom.xml](http://googleresearch.blogspot.com/atom.xml) -> [google_rss.xml](rss/google_rss.xml)
