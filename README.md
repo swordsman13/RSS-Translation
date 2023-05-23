@@ -12,5 +12,4 @@
 ## 已转换翻译源
 
  - source001 [https://www.artificialintelligence-news.com/feed/](https://www.artificialintelligence-news.com/feed/) -> [ai_news_rss.xml](rss/ai_news_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source002 [http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml](http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml) -> [mitai_rss.xml](rss/mitai_rss.xml)
